@@ -1,0 +1,36 @@
+{
+  "Template": {
+    "colors": {
+      "background-color": "hsl(216deg 9% 8%)",
+      "pane-color": "hsl(216deg 8% 15%)",
+      "side-pane-color": "hsl(216deg 7.82% 12.55%)",
+      "header-background-color": "hsla(216deg 8% 15% / 80%)",
+      "header-background-color-blur-disabled": "hsl(216deg 8% 15%)",
+      "tooltip-background-color": "rgb(40, 40, 40)",
+      "primary-color": "#4c93ff",
+      "primary-color-dark": "#2d3746",
+      "alert-color": "#eb6e6e",
+      "alert-color-dark": "#3e2626",
+      "warn-color": "#ff8f2c",
+      "warn-color-dark": "#3a3229",
+      "success-color": "#78e380",
+      "success-color-dark": "#1c221d",
+      "status-offline": "#adadad",
+      "status-online": "#78e380",
+      "status-looking-to-play": "#78a5e3",
+      "status-away-from-keyboard": "#e3a878",
+      "status-do-not-disturb": "#e37878",
+      "text-color": "white",
+      "markup-code-background-color": "rgba(0, 0, 0, 0.6)",
+      "markup-mention-background-color": "rgba(0, 0, 0, 0.2)",
+      "markup-mention-background-color-hover": "rgba(0, 0, 0, 0.6)",
+      "markup-codeblock-background-color": "rgba(0, 0, 0, 0.6)",
+      "markup-spoiler-background-color": "#0e0f10",
+      "markup-spoiler-background-color-hover": "#1c1e20"
+    },
+    "maintainers": [
+      "Asraye",
+      "Superkitten"
+    ]
+  }
+}
