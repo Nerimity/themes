@@ -1,0 +1,35 @@
+{
+  "Red Glory": {
+    "colors": {
+      "background-color": "hsl(0deg 5% 5%)",
+      "pane-color": "hsl(0deg 8% 10%)",
+      "side-pane-color": "hsl(0deg 10% 8%)",
+      "header-background-color": "hsla(0deg 10% 12% / 85%)",
+      "header-background-color-blur-disabled": "hsl(0deg 10% 12%)",
+      "tooltip-background-color": "rgb(28, 18, 18)",
+      "primary-color": "#cc0000",
+      "primary-color-dark": "#4a0000",
+      "alert-color": "#ff3333",
+      "alert-color-dark": "#3d0a0a",
+      "warn-color": "#e0a100",
+      "warn-color-dark": "#332400",
+      "success-color": "#4e8c4a",
+      "success-color-dark": "#1a241a",
+      "status-offline": "#7a7a7a",
+      "status-online": "#ffd700",
+      "status-looking-to-play": "#d4af37",
+      "status-away-from-keyboard": "#8b0000",
+      "status-do-not-disturb": "#ff0000",
+      "text-color": "#e0e0e0",
+      "markup-code-background-color": "rgba(10, 10, 10, 0.8)",
+      "markup-mention-background-color": "rgba(204, 0, 0, 0.2)",
+      "markup-mention-background-color-hover": "rgba(204, 0, 0, 0.4)",
+      "markup-codeblock-background-color": "rgba(5, 5, 5, 0.9)",
+      "markup-spoiler-background-color": "#1a0505",
+      "markup-spoiler-background-color-hover": "#2e0a0a"
+    },
+    "maintainers": [
+      "Sippy"
+    ]
+  }
+}
