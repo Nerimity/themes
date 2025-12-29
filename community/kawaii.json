@@ -1,0 +1,35 @@
+{
+  "Kawaii": {
+    "colors": {
+      "background-color": "#0d0b10",
+      "pane-color": "#141118",
+      "side-pane-color": "#09080c",
+      "header-background-color": "hsla(270deg, 20%, 8%, 0.85)",
+      "header-background-color-blur-disabled": "#0d0b10",
+      "tooltip-background-color": "#1a1621",
+      "primary-color": "#bb99ff",
+      "primary-color-dark": "#9977e6",
+      "alert-color": "#bc0061",
+      "alert-color-dark": "#69003f",
+      "warn-color": "#eb9549",
+      "warn-color-dark": "#cca352",
+      "success-color": "#99ffeb",
+      "success-color-dark": "#66ccb8",
+      "status-offline": "#3d3846",
+      "status-online": "#b2ffdf",
+      "status-looking-to-play": "#d1b3ff",
+      "status-away-from-keyboard": "#fff5b3",
+      "status-do-not-disturb": "#ffb3c1",
+      "text-color": "#e5d9f2",
+      "markup-code-background-color": "rgba(30, 20, 40, 0.8)",
+      "markup-mention-background-color": "rgba(187, 153, 255, 0.2)",
+      "markup-mention-background-color-hover": "rgba(187, 153, 255, 0.4)",
+      "markup-codeblock-background-color": "rgba(10, 5, 15, 0.9)",
+      "markup-spoiler-background-color": "#241e2b",
+      "markup-spoiler-background-color-hover": "#362d40"
+    },
+    "maintainers": [
+      "Femboy With A Gun"
+    ]
+  }
+}
