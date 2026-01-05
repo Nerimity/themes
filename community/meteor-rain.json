@@ -1,35 +1,32 @@
 {
-  "Meteor Rain": {
-    "colors": {
-      "background-color": "#1a1b2a",
-      "pane-color": "#1a1b2a",
-      "side-pane-color": "#272a43",
-      "header-background-color": "#191c2f",
-      "header-background-color-blur-disabled": "#24283b",
-      "tooltip-background-color": "#24283b",
-      "primary-color": "#836cad",
-      "primary-color-dark": "#5e4d7c",
-      "alert-color": "#b05a77",
-      "alert-color-dark": "#582d3c",
-      "warn-color": "#e0af68",
-      "warn-color-dark": "#9d7a49",
-      "success-color": "#c5eaff",
-      "success-color-dark": "#5891b3",
-      "status-offline": "#959eaf",
-      "status-online": "#7dcc82",
-      "status-looking-to-play": "#6a8ebd",
-      "status-away-from-keyboard": "#f6c586",
-      "status-do-not-disturb": "#c94e4e",
-      "text-color": "#fab682",
-      "markup-code-background-color": "#24283b",
-      "markup-mention-background-color": "#1a1b26",
-      "markup-mention-background-color-hover": "#1a1b26",
-      "markup-codeblock-background-color": "#24283b",
-      "markup-spoiler-background-color": "#24283b",
-      "markup-spoiler-background-color-hover": "#1a1b26"
-    },
-    "maintainers": [
-      "YourKindAlly"
-    ]
-  }
+  "name": "Meteor Rain",
+  "colors": {
+    "background-color": "#1a1b2a",
+    "pane-color": "#1a1b2a",
+    "side-pane-color": "#272a43",
+    "header-background-color": "#191c2f",
+    "header-background-color-blur-disabled": "#24283b",
+    "tooltip-background-color": "#24283b",
+    "primary-color": "#836cad",
+    "primary-color-dark": "#5e4d7c",
+    "alert-color": "#b05a77",
+    "alert-color-dark": "#582d3c",
+    "warn-color": "#e0af68",
+    "warn-color-dark": "#9d7a49",
+    "success-color": "#c5eaff",
+    "success-color-dark": "#5891b3",
+    "status-offline": "#959eaf",
+    "status-online": "#7dcc82",
+    "status-looking-to-play": "#6a8ebd",
+    "status-away-from-keyboard": "#f6c586",
+    "status-do-not-disturb": "#c94e4e",
+    "text-color": "#fab682",
+    "markup-code-background-color": "#24283b",
+    "markup-mention-background-color": "#1a1b26",
+    "markup-mention-background-color-hover": "#1a1b26",
+    "markup-codeblock-background-color": "#24283b",
+    "markup-spoiler-background-color": "#24283b",
+    "markup-spoiler-background-color-hover": "#1a1b26"
+  },
+  "maintainers": ["YourKindAlly"]
 }
