@@ -25,17 +25,18 @@ jobs:
 
       - run: node build.js
 
-      - name: Push themes.json to themes branch
+      - name: Push themes.json to main branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
           mv themes.json /tmp/themes.json
 
-          git fetch origin themes
-          git checkout themes || git checkout -b themes origin/themes
+          git fetch origin main
+          git checkout main
+          git pull origin main
 
           mv /tmp/themes.json themes.json
           git add themes.json
           git commit -m "Auto-update themes.json" || echo "No changes to commit"
-          git push origin themes
+          git push origin main
