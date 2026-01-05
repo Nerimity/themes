@@ -1,0 +1,39 @@
+name: Build Theme
+
+on:
+  push:
+    branches: ["themes-src"]
+  pull_request:
+    branches: ["themes-src"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Use Node.js LTS
+        uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: "npm"
+
+      - run: npm ci
+      - run: node build.js
+
+      - name: Push themes.json to themes branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          mv themes.json /tmp/themes.json
+          git checkout themes
+          mv /tmp/themes.json themes.json
+          git add themes.json
+          git commit -m "Auto-update themes.json" || echo "No changes to commit"
+          git push origin themes
