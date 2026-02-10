@@ -1,0 +1,32 @@
+{
+  "name": "Sleek Pink",
+  "colors": {
+    "background-color": "hsl(330, 8%, 10%)",
+    "pane-color": "hsl(330, 15%, 14%)",
+    "side-pane-color": "hsl(330, 12%, 12%)",
+    "header-background-color": "hsla(330, 15%, 16%, 0.8)",
+    "header-background-color-blur-disabled": "hsl(330, 15%, 16%)",
+    "tooltip-background-color": "hsl(330, 10%, 18%)",
+    "primary-color": "#ff6bb5",
+    "primary-color-dark": "#3d2a35",
+    "alert-color": "#eb6e6e",
+    "alert-color-dark": "#3e2626",
+    "warn-color": "#ff8f2c",
+    "warn-color-dark": "#3a3229",
+    "success-color": "#78e380",
+    "success-color-dark": "#1c221d",
+    "status-offline": "#ff6bb5",
+    "status-online": "#ff6bb5",
+    "status-looking-to-play": "#ff6bb5",
+    "status-away-from-keyboard": "#ff6bb5",
+    "status-do-not-disturb": "#ff6bb5",
+    "text-color": "hsl(330, 20%, 95%)",
+    "markup-code-background-color": "hsla(330, 20%, 8%, 0.6)",
+    "markup-mention-background-color": "hsla(330, 40%, 30%, 0.2)",
+    "markup-mention-background-color-hover": "hsla(330, 40%, 30%, 0.4)",
+    "markup-codeblock-background-color": "hsla(330, 20%, 8%, 0.6)",
+    "markup-spoiler-background-color": "hsl(330, 10%, 6%)",
+    "markup-spoiler-background-color-hover": "hsl(330, 10%, 10%)"
+  },
+  "maintainers": ["auth"]
+}
