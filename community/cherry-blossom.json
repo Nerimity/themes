@@ -1,38 +1,34 @@
-"name":"Cherry Blossom",
-  "colors":{
-  "background-color":"#2A1922",
-  "pane-color":"#2A1922",
-  "side-pane-color":"#3A2430",
-  "header-background-color":"#2F1D27",
-  "header-background-color-blur-disabled":"#3A2430",
-  "tooltip-background-color":"#3A2430",
-
-  "primary-color":"#C06C9C",
-  "primary-color-dark":"#7A2F52",
-
-  "alert-color":"#9E3A4F",
-  "alert-color-dark":"#5C1F2C",
-
-  "warn-color":"#E3B86B",
-  "warn-color-dark":"#9A743A",
-
-  "success-color":"#EFDCE8",
-  "success-color-dark":"#9D6C87",
-
-  "status-offline":"#8B7A85",
-  "status-online":"#7FAF8F",
-  "status-looking-to-play":"#A78BD6",
-  "status-away-from-keyboard":"#E6C27A",
-  "status-do-not-disturb":"#7A1F2D",
-
-  "text-color":"#F3C7D7",
-
-  "markup-code-background-color":"#3A2430",
-  "markup-mention-background-color":"#4A2D3A",
-  "markup-mention-background-color-hover":"#5A3445",
-  "markup-codeblock-background-color":"#3A2430",
-  "markup-spoiler-background-color":"#3A2430",
-  "markup-spoiler-background-color-hover":"#2F1D27"
-},
-  "maintainers":["Xansi"]
+{
+  "name": "Cherry Blossom",
+  "colors": {
+    "background-color": "#2A1922",
+    "pane-color": "#2A1922",
+    "side-pane-color": "#3A2430",
+    "header-background-color": "#2F1D27",
+    "header-background-color-blur-disabled": "#3A2430",
+    "tooltip-background-color": "#3A2430",
+    "primary-color": "#C06C9C",
+    "primary-color-dark": "#7A2F52",
+    "alert-color": "#9E3A4F",
+    "alert-color-dark": "#5C1F2C",
+    "warn-color": "#E3B86B",
+    "warn-color-dark": "#9A743A",
+    "success-color": "#EFDCE8",
+    "success-color-dark": "#9D6C87",
+    "status-offline": "#8B7A85",
+    "status-online": "#7FAF8F",
+    "status-looking-to-play": "#A78BD6",
+    "status-away-from-keyboard": "#E6C27A",
+    "status-do-not-disturb": "#7A1F2D",
+    "text-color": "#F3C7D7",
+    "markup-code-background-color": "#3A2430",
+    "markup-mention-background-color": "#4A2D3A",
+    "markup-mention-background-color-hover": "#5A3445",
+    "markup-codeblock-background-color": "#3A2430",
+    "markup-spoiler-background-color": "#3A2430",
+    "markup-spoiler-background-color-hover": "#2F1D27"
+  },
+  "maintainers": [
+    "Xansi"
+  ]
 }
