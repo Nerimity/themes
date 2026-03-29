@@ -1,4 +1,6 @@
- "colors": {
+{
+  "name": "Matrix",
+  "colors": {
 "background-color": "#0a0f0a",
 "pane-color": "#0d1510",
 "side-pane-color": "#080c08",
@@ -25,4 +27,7 @@
 "markup-codeblock-background-color": "rgba(0, 0, 0, 0.9)",
 "markup-spoiler-background-color": "#0d150d",
 "markup-spoiler-background-color-hover": "#1a2a1a"
+}
+  },
+  "maintainers": ["Nox"]
 }
